@@ -52,7 +52,7 @@ module mod_bats_param
                              deptv, depuv, displa, fc, freza,  &
                              frezu, rough, rsmin, sai, seasf,  &
                              sqrtdi, mfcv, xla, xlai0, rootf,  &
-                             slmo, lndemiss, seasemi
+                             slmo, lndemiss, seasemi,fogeps
   real(rkx), dimension(17) :: bee, skrat, xmofc, xmohyd, xmopor ,&
                              xmosuc, xmowil
   integer(ik4), dimension(22) :: kolsol
